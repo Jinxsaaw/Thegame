@@ -19,11 +19,3 @@ You may also see any lint errors in the console.
 ## This project is still under development.
 
 Just a few more touches and I think it's done. I'm facing a bug at the end result that I'm struggling with.
-
-
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
